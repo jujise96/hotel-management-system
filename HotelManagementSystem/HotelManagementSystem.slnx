@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hotel.Core/Hotel.Core.csproj" />
+  <Project Path="Hotel.Data/Hotel.Data.csproj" />
+  <Project Path="Hotel.Tests/Hotel.Tests.csproj" />
+  <Project Path="HotelManagementSystem/Hotel.App.csproj" />
+</Solution>
